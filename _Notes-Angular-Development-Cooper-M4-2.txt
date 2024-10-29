@@ -92,8 +92,10 @@ Module 4: Using Angular Templates
      - now test. do npm start
 
   - Repeating data with ngFor
+     - https://app.pluralsight.com/ilx/video-courses/d5d30ea4-0af1-447a-b13a-e60a095337a6/4623aa46-bc16-4394-b680-a6c9ce70f48e/ed790d28-bcf0-4525-bcc7-b0df53179de9
 
-  
+     
+
 Module 5: Styling Angular Components
 
 Module 6: Communicating Between Angular Components
