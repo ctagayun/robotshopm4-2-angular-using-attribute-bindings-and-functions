@@ -90,7 +90,10 @@ Module 4: Using Angular Templates
        go to Catalog.Component.ts and create getImageUrl()
 
      - now test. do npm start
-     
+
+  - Repeating data with ngFor
+
+  
 Module 5: Styling Angular Components
 
 Module 6: Communicating Between Angular Components
